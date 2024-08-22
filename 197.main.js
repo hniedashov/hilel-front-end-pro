@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhilel_frontend_course=self.webpackChunkhilel_frontend_course||[]).push([[197],{197:(e,l,o)=>{o.r(l),o.d(l,{default:()=>r});var s=o(95);class r{index(){s.A.render("home",{message:"Home page"})}edit(){console.log("Edit HomeController")}}}}]);

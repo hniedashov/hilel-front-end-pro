@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhilel_frontend_course=self.webpackChunkhilel_frontend_course||[]).push([[931],{931:(e,o,n)=>{n.r(o),n.d(o,{default:()=>u});const u={Home:["/",["home","index"]],About:["/about",["about","index"]],NotFound:["/404",["notFound","index"]]}}}]);

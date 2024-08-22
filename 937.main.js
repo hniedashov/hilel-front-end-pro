@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhilel_frontend_course=self.webpackChunkhilel_frontend_course||[]).push([[937],{937:(e,r,s)=>{s.r(r),s.d(r,{default:()=>n});var l=s(803);class n{index(){l.A.render("404")}}}}]);
