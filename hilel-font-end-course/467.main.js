@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhilel_frontend_course=self.webpackChunkhilel_frontend_course||[]).push([[467],{467:(e,n,s)=>{s.r(n),s.d(n,{default:()=>l});const l="<header>\n    {{> navlinks }}\n</header>"}}]);

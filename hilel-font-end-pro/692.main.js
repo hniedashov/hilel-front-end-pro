@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhilel_frontend_course=self.webpackChunkhilel_frontend_course||[]).push([[692],{692:(e,s,h)=>{h.r(s),h.d(s,{default:()=>l});const l="<h1>{{ message }}</h1>"}}]);

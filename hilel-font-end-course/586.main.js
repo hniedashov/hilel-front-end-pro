@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhilel_frontend_course=self.webpackChunkhilel_frontend_course||[]).push([[586],{586:(e,l,u)=>{u.r(l),u.d(l,{default:()=>n});const n='<ul id="routing">\n    <li><a href="/">home</a></li>\n    <li><a href="/about">about</a></li>\n</ul>'}}]);

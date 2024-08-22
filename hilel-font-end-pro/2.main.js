@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhilel_frontend_course=self.webpackChunkhilel_frontend_course||[]).push([[2],{2:(e,s,l)=>{l.r(s),l.d(s,{default:()=>n});const n="ABOUT"}}]);
